@@ -8,4 +8,4 @@
 - 💬 Ask me about Spring and cloud native, reactive architectures 
 - 📫 How to reach me: I'm [on Twitter (@starbuxman)](http://twitter.com/starbuxman). That's the best way. There's also [e-mail](mailto:josh@joshlong.com), though keep in mind I tend to be even more async in my replies there... 
 - 😄 Pronouns: he/him/they
-- Are you looking for a repository you saw mentioned somewhere? In December 2022, I moved more than 500 Github repositories spanning more than a decade of work, experiments, etc. to [`github.com/joshlong-scratch`](https://github.com/joshlong-scratch)
+- Are you looking for a repository you saw mentioned somewhere? In December 2022, I moved more than 500 Github repositories spanning more than a decade to [`github.com/joshlong-attic`](https://github.com/joshlong-attic). These projects are those I've lost interest in, only served as a sketch or experiment or bug reproducer, are forks I no longer work on, etc. Basically, they had their time and that time has passed.
